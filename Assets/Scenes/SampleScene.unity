@@ -352,6 +352,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: b731e42cdb30cd443928aee8e5ed1b36, type: 3}
   - {fileID: 8300000, guid: 330b250950d930b44a5609d0353ea90f, type: 3}
   - {fileID: 8300000, guid: ce01123002030d54ba2486965ae730d6, type: 3}
+  isPlayClearSound: 0
 --- !u!4 &148257685
 Transform:
   m_ObjectHideFlags: 0
@@ -620,7 +621,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: 53870219c49a2004da93e488ba96ed8f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
